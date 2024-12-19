@@ -1,0 +1,4 @@
+[wokwi]
+version=1
+firmware='build/mini-piano.ino.hex'
+elf='build/mini-piano.ino.elf'
